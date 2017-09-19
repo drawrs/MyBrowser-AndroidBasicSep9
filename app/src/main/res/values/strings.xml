@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Browser</string>
+    <string name="hintURL">http://google.com</string>
+    <string name="btn_go">GO</string>
+    <string name="homepage_url">http://www.google.com</string>
+    <string name="about">Tentang</string>
+    <string name="exit">Keluar</string>
+    <string name="report">Lapor Bug</string>
+    <string name="hint_report">Beritahu kami masalah Anda..</string>
+    <string name="btn_report">Kirim</string>
+</resources>
